@@ -36,7 +36,7 @@ The dataset can be found in the folder Data/Legitimate
 - Log4Shell
 
 
-The malicious payloads were sourced from the WAF Payload Collection GitHub page that was assembled by mgm security partners GmbH from Germany. This repository serves as a valuable resource, providing payloads specifically created for testing Web Application Firewall rules. 
+The malicious payloads were sourced from the WAF Payload Collection GitHub page that was assembled by mgm security. This repository serves as a valuable resource, providing payloads specifically created for testing Web Application Firewall rules. 
 
 The dataset is available [here](https://github.com/openappsec/mgm-web-attack-payloads)
 
