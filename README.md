@@ -13,7 +13,7 @@ Copy the configuration template file by running the following command in the pro
 ```shell
 cp config_template.py config.py
 ```
-This command creates a copy of the config_template.py file and renames it to config.py.
+This command creates a copy of the config_template.py file and renames it to config.py. After this replace the URL with your OpenAppSec playground's URL, make sure the model is uploaded through their dashboard.
 
 ### 2. Run the Tool
 Execute the main runner file by running the following command:
