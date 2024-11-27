@@ -45,12 +45,9 @@ The dataset can be found in the folder Data/Legitimate
 ## For larger datasets
 Use the `dataset_splitter.py` to get manageable chunks to run attacks.
 
-The dataset is available [here](https://github.com/openappsec/mgm-web-attack-payloads)
+More datasets available [here](https://github.com/openappsec/mgm-web-attack-payloads)
 
 ## Running the Tests
 The main file for running the tests is `runner.py`. This script will send the HTTP requests, log the responses, and calculate the performance metrics for each WAF.
-
-
-[MGM WAF Payload Collection](https://github.com/mgm-sp/WAF-Payload-Collection)
 
 
