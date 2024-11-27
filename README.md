@@ -1,6 +1,6 @@
 
 ## Setup Instructions
-Follow the steps below to set up and run the tool:
+The following the steps have been set up to run the tool, and have been tuned for Model Extraction Attack:
 
 Download the necessary python requirements
 ```shell
