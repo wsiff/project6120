@@ -32,7 +32,7 @@ Execute the database query file running the following command. This creates a .t
 
 ## Methodology
 
-Each WAF solution is tested against two data sets: legitimate and malicious. We then used a formula described below in detail to produce a single balanced score. The True positives are in the DB which then can be used to extract the model.
+Each WAF solution is tested against two data sets: legitimate and malicious. We then used a formula described below in detail to produce a single balanced score. The True positives are in the DB which then can be used to facilitate in the model extraction.
 
 ### Legitimate Data Set
 
